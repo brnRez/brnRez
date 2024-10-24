@@ -16,33 +16,23 @@ Sou um Jovem de 24 anos, estudante de Análise e Desenvolvimento de Sistemas na 
 
 <h2>Contatos</h2>
 
-<div style="display: flex">
- 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_brvnao/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maciel2bruno@gmail.com)
 
 <h3>Conecte-se Comigo!</h3>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomaciell/)
 
-</div>
 
 <h2>Linguagens</h2>
-<div style="display: flex">
 
 <h3>Atualmente Aprendendo</h3>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-</div>
 
 <h2>Estatisticas do GitHub</h2>
 
